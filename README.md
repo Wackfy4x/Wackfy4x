@@ -1,4 +1,4 @@
-<h1 align="center">Salut, je suis Wilfried Conrad Waffeu Mbé 👋</h1>
+<h1 align="center">Salut, je suis Wilfried 👋</h1>
 
 <h3 align="center">Ingénieur en Informatique · Développeur Fullstack · Data & IA</h3>
 
