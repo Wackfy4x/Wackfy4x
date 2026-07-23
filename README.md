@@ -10,18 +10,6 @@
 
 ---
 
-### 👨‍💻 À propos de moi
-
-Étudiant ingénieur en dernière année à **3IL Ingénieurs Limoges** (spécialité BI & Big Data), diplômé en Ingénierie Informatique & Systèmes d'Information de l'**Institut Universitaire Saint Jean** (Yaoundé). Je conçois des applications **fullstack** de bout en bout — backend, frontend, données — avec un intérêt particulier pour l'**intelligence artificielle appliquée** (LLM, RAG, NLP, Machine Learning) et l'**ingénierie de la donnée** (pipelines ETL, Big Data).
-
-🎓 Formations d'ingénieur : 3IL Ingénieurs (Limoges) & Institut Universitaire Saint Jean (Yaoundé)
-🔭 En poste actuellement : Développeur Web Fullstack chez GROCEP & CCS
-🌱 En recherche active : une **alternance de 12 mois dès septembre 2026** (rythme 6 semaines entreprise / 6 semaines école)
-💬 Sujets qui m'intéressent : architecture logicielle, Data Engineering, IA générative, DevOps
-📍 Limoges, France · mobilité nationale
-
----
-
 ### 🛠️ Stack technique
 
 **Backend & Architecture**
@@ -88,6 +76,18 @@
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white"/>
 </p>
+
+---
+
+### 👨‍💻 À propos de moi
+
+Étudiant ingénieur en dernière année à **3IL Ingénieurs Limoges** (spécialité BI & Big Data), diplômé en Ingénierie Informatique & Systèmes d'Information de l'**Institut Universitaire Saint Jean** (Yaoundé). Je conçois des applications **fullstack** de bout en bout — backend, frontend, données — avec un intérêt particulier pour l'**intelligence artificielle appliquée** (LLM, RAG, NLP, Machine Learning) et l'**ingénierie de la donnée** (pipelines ETL, Big Data).
+
+🎓 Formations d'ingénieur : 3IL Ingénieurs (Limoges) & Institut Universitaire Saint Jean (Yaoundé)
+🔭 En poste actuellement : Développeur Web Fullstack chez GROCEP & CCS
+🌱 En recherche active : une **alternance de 12 mois dès septembre 2026** (rythme 6 semaines entreprise / 6 semaines école)
+💬 Sujets qui m'intéressent : architecture logicielle, Data Engineering, IA générative, DevOps
+📍 Limoges, France · mobilité nationale
 
 ---
 
