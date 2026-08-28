@@ -185,22 +185,9 @@ Développement en 12h d'un jeu éducatif sur la résilience numérique, en répo
 ## 📊 Statistiques GitHub
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=wackfy4x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=3600" height="165" alt="Statistiques GitHub de wackfy4x"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wackfy4x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=3600" height="165" alt="Langages les plus utilises"/>
-
 <br/>
-
 <img src="https://streak-stats.demolab.com/?user=wackfy4x&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=3600" height="165" alt="Streak GitHub"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=wackfy4x&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophees GitHub"/>
-
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wackfy4x&theme=tokyo-night&hide_border=true&bg_color=0D1117&cache_seconds=3600" width="95%" alt="Graphique d'activite GitHub"/>
-
 </div>
 
 <br/>
