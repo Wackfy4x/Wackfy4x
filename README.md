@@ -1,133 +1,230 @@
-<h1 align="center">Salut, je suis Wilfried 👋</h1>
+<div align="center">
 
-<h3 align="center">Ingénieur en Informatique · Développeur Fullstack · Data & IA</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:4B0082&height=230&section=header&text=Wilfried%20Conrad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developpeur%20Fullstack%20%7C%20DevOps%20%7C%20Data%20%26%20IA&descAlignY=58&descSize=19&stroke=4B0082&strokeWidth=1" width="100%"/>
+
+<a href="https://waffeumbe.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=680&lines=Ingenieur+Logiciel+%7C+Java+%2F+Spring+Boot+%2F+Angular;Data+Engineer+%7C+Kafka+%2F+Spark+%2F+Airflow;Passionne+d%27IA+%7C+LLM+%2F+RAG+%2F+NLP;Disponible+pour+une+alternance+des+Septembre+2026" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://waffeumbe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/wilfried-conrad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:waffeuw@3il.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/wackfy4x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/>
+
+</div>
+
+<br/>
 
 <p align="center">
-  <a href="https://waffeumbe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-waffeumbe.vercel.app-1F3864?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/wilfried-conrad"><img src="https://img.shields.io/badge/LinkedIn-wilfried--conrad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:waffeuw@3il.fr"><img src="https://img.shields.io/badge/Email-waffeuw%403il.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 </p>
 
----
+<br/>
 
-### 🛠️ Stack technique
+## 🧭 Profil
+
+> Ingénieur logiciel passionné par la conception d'applications robustes, scalables et orientées performance.
+> Deux ans d'expérience polyvalente en développement fullstack, en construction de pipelines Big Data et en déploiement DevOps.
+> Habitué à prendre en charge le cycle complet d'un projet : analyse des besoins, architecture, développement, tests, mise en production et maintenance évolutive.
+
+```yaml
+nom: Wilfried Conrad Waffeu Mbé
+role_actuel: "Développeur Web Fullstack chez GROCEP & CCS"
+formation: "Ingénierie BI & Big Data · 3IL Ingénieurs, Limoges"
+recherche: "Alternance 12 mois · dès Septembre 2026"
+localisation: "Limoges, France · mobilité nationale"
+langues: ["Français (natif)", "Anglais (B2)"]
+```
+
+<br/>
+
+## 🛠️ Stack technique
+
+<div align="center">
 
 **Backend & Architecture**
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-informational?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Microservices-informational?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Design_Patterns-informational?style=flat-square"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,fastapi,django,maven,postgresql" />
 
 **Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css" />
 
 **Data Engineering & Intelligence Artificielle**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-4B0082?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLM-4B0082?style=flat-square"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,kafka,pandas" />
+<br/>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-4B0082?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM-4B0082?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
 **Cloud & DevOps**
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,githubactions,jenkins" />
 
 **Bases de données**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,elasticsearch,neo4j,cassandra" />
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white"/>
-</p>
+</div>
 
----
+<br/>
 
-### 👨‍💻 À propos de moi
+## 💼 Parcours professionnel
 
-Étudiant ingénieur en dernière année à **3IL Ingénieurs Limoges** (spécialité BI & Big Data), diplômé en Ingénierie Informatique & Systèmes d'Information de l'**Institut Universitaire Saint Jean** (Yaoundé). Je conçois des applications **fullstack** de bout en bout — backend, frontend, données — avec un intérêt particulier pour l'**intelligence artificielle appliquée** (LLM, RAG, NLP, Machine Learning) et l'**ingénierie de la donnée** (pipelines ETL, Big Data).
+<table>
+<tr>
+<td width="140" valign="top"><b>Mai 2026<br/>→ aujourd'hui</b></td>
+<td>
+<b>Développeur Web Fullstack</b> · GROCEP & CCS<br/>
+<sub>Conception en pleine autonomie d'un ERP fullstack (Angular + FastAPI) : gestion des stocks, suivi opérationnel, rapports automatisés. Application de traçabilité en temps réel pour les croisements de variétés de plants. Modélisation PostgreSQL, sécurisation JWT, déploiement continu sur OVH.</sub>
+</td>
+</tr>
+<tr>
+<td width="140" valign="top"><b>Mai → Sept. 2025</b></td>
+<td>
+<b>Développeur Mobile & IA (stage)</b> · DOWHILE SARL<br/>
+<sub>Intégration de modules NLP dans des applications React Native, optimisation des pipelines LLM (~35 % de réduction du temps de traitement). Conception et entraînement de réseaux de neurones pour la classification de texte (précision : 88 %). Livraison de 3 produits clients en production.</sub>
+</td>
+</tr>
+<tr>
+<td width="140" valign="top"><b>Juil. → Sept. 2024</b></td>
+<td>
+<b>Développeur Fullstack (stage)</b> · Institut Universitaire Saint Jean<br/>
+<sub>Système critique de gestion des résultats d'examens pour plus de 500 étudiants (Spring Boot, Angular, PostgreSQL), conforme RGPD. API REST réduisant le traitement des résultats de 3 jours à quelques heures.</sub>
+</td>
+</tr>
+</table>
 
-🎓 Formations d'ingénieur : 3IL Ingénieurs (Limoges) & Institut Universitaire Saint Jean (Yaoundé)
-🔭 En poste actuellement : Développeur Web Fullstack chez GROCEP & CCS
-🌱 En recherche active : une **alternance de 12 mois dès septembre 2026** (rythme 6 semaines entreprise / 6 semaines école)
-💬 Sujets qui m'intéressent : architecture logicielle, Data Engineering, IA générative, DevOps
-📍 Limoges, France · mobilité nationale
+<br/>
 
----
+## 🚀 Projets phares
 
-### 🚀 Projets phares
+<div align="center">
 
-Les types de projets sur lesquels je travaille couvrent le fullstack, la data engineering et l'IA appliquée :
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Projet | Description | Stack |
-|---|---|---|
-| 🤖 **[Ragadmin](https://github.com/wackfy4x)** | Reprise et refactorisation d'une plateforme RAG documentaire (projet mené avec La Poste) : pipeline RAG (+40 % de pertinence), traitement multimodal texte/image, pipeline NLP audio | LangChain, RAG, LLM, Python |
-| 🚄 **[OpenDataSNCF]([https://github.com/wackfy4x](https://github.com/leaticia-wandji-3il/OpenData_SNCF))** | Pipeline Big Data end-to-end orchestré avec Apache Airflow : ingestion Kafka, traitement distribué Spark, stockage S3-compatible (MinIO), dashboard interactif sur plus de 2M de lignes | Kafka, Spark, Airflow, Docker |
-| 🎮 **[Nuit de l'Info 2025]([https://github.com/wackfy4x](https://github.com/MRGUY10/NIRD-Platform))** | Serious game sur la résilience numérique — hackathon national (France), livré en 12h | React JS, Django |
+### 🤖 Ragadmin
+**Plateforme RAG documentaire · projet La Poste**
 
-> 📌 Explore tous mes dépôts ci-dessous, ou retrouve une présentation complète sur mon [portfolio](https://waffeumbe.vercel.app).
+Refactorisation complète du pipeline RAG (+40 % de pertinence), traitement multimodal simultané (texte, images, figures), pipeline NLP audio avec transcription et extraction d'entités.
 
----
+`LangChain` `RAG` `LLM` `Python`
 
-### 💼 Expérience professionnelle
+</td>
+<td width="50%" valign="top">
 
-- **Développeur Web Fullstack** · GROCEP & CCS *(Mai 2026 – aujourd'hui)* — ERP fullstack en autonomie complète (Angular, FastAPI)
-- **Développeur Mobile & IA (stage)** · DOWHILE SARL *(2025)* — Intégration LLM/NLP dans des applications React Native
-- **Développeur Fullstack (stage)** · Institut Universitaire Saint Jean *(2024)* — Système de gestion d'examens (Java Spring Boot, Angular)
+### 🚄 OpenDataSNCF
+**Pipeline Big Data & tourisme ferroviaire**
 
----
+Ingestion temps réel via Kafka, stockage tri couche Bronze/Silver/Gold sur MinIO, traitement Spark et orchestration Airflow sur plus de 2M de lignes. Dashboard interactif Streamlit + Plotly + Folium.
 
-### 📊 Statistiques GitHub
+`Kafka` `Spark` `Airflow` `Docker`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wackfy4x&show_icons=true&theme=default&hide_border=true" alt="Stats GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wackfy4x&layout=compact&hide_border=true" alt="Langages les plus utilisés" height="165"/>
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🏠 Eyangless
+**Application de réservation de logement**
 
-### 📫 Me contacter
+Plateforme fullstack complète : API backend robuste (Spring Boot), interfaces dynamiques (Angular), authentification JWT, gestion stricte des transactions, cache serveur optimisé.
 
-<p>
-  <a href="https://www.linkedin.com/in/wilfried-conrad"><img src="https://img.shields.io/badge/LinkedIn-Se_connecter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:waffeuw@3il.fr"><img src="https://img.shields.io/badge/Email-Me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://waffeumbe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visiter-1F3864?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+`Java` `Spring Boot` `Angular` `Docker`
 
-<p align="center"><i>🟢 Disponible pour une alternance de 12 mois à partir de septembre 2026</i></p>
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Neoshop
+**E-commerce avec agent IA conversationnel**
+
+Agent conversationnel NLP pour recommandation personnalisée sur un catalogue de plus de 1 000 produits. Interfaces web et mobile ergonomiques et sécurisation des flux transactionnels.
+
+`TensorFlow.js` `React` `React Native` `NLP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚦 CONIA 2025
+**Détection d'embouteillages par IA · Hackathon national Cameroun**
+
+Solution de détection temps réel basée sur YOLOv9 avec interface web interactive, conçue et livrée en 72h pour le Ministère des Postes et Télécommunications du Cameroun.
+
+`YOLOv9` `Angular` `Flask` `Computer Vision`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Nuit de l'Info 2025
+**Serious game sur la résilience numérique · Hackathon national France**
+
+Développement en 12h d'un jeu éducatif sur la résilience numérique, en réponse aux pannes mondiales des GAFAM, avec coordination d'équipe en temps réel.
+
+`React` `Django`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=wackfy4x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=3600" height="165" alt="Statistiques GitHub de wackfy4x"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wackfy4x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=3600" height="165" alt="Langages les plus utilises"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=wackfy4x&theme=tokyonight&hide_border=true&background=0D1117&cache_seconds=3600" height="165" alt="Streak GitHub"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=wackfy4x&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophees GitHub"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wackfy4x&theme=tokyo-night&hide_border=true&bg_color=0D1117&cache_seconds=3600" width="95%" alt="Graphique d'activite GitHub"/>
+
+</div>
+
+<br/>
+
+## 🎓 Formation & Certifications
+
+- 🏛️ **Ingénierie BI & Big Data (Douple Diplome)** · 3IL Ingénieurs, Limoges *(Sept. 2025 → en cours)*
+- 🎓 **Ingénierie Informatique & Systèmes d'Information** · Institut Universitaire Saint Jean, Yaoundé *(2021 → 2025)*
+- 📜 Docker Foundations Professional Certificate · Docker Inc.
+- 📜 Java Fullstack Developer · Board Infinity
+- 📜 JavaScript Essentials 1 · JS Institute
+
+<br/>
+
+<div align="center">
+
+## 📬 Travaillons ensemble
+
+**Disponible pour une alternance de 12 mois à partir de Septembre 2026**
+
+<a href="https://www.linkedin.com/in/wilfried-conrad"><img src="https://img.shields.io/badge/Me_contacter_sur_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:waffeuw@3il.fr"><img src="https://img.shields.io/badge/Envoyer_un_email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://waffeumbe.vercel.app"><img src="https://img.shields.io/badge/Voir_mon_portfolio-1F3864?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:1F3864&height=120&section=footer" width="100%"/>
+
+</div>
