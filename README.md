@@ -1,5 +1,9 @@
 <div align="center">
 
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wackfy4x/wackfy4x/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wackfy4x/wackfy4x/output/github-contribution-grid-snake.svg" /> <img alt="Graphique de contributions anime" src="https://raw.githubusercontent.com/wackfy4x/wackfy4x/output/github-contribution-grid-snake.svg" width="100%"/> </picture> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:4B0082&height=230&section=header&text=Wilfried%20Conrad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developpeur%20Fullstack%20%7C%20DevOps%20%7C%20Data%20%26%20IA&descAlignY=58&descSize=19&stroke=4B0082&strokeWidth=1" width="100%"/> <a href="https://waffeumbe.vercel.app"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=680&lines=Ingenieur+Logiciel+%7C+Java+%2F+Spring+Boot+%2F+Angular;Data+Engineer+%7C+Kafka+%2F+Spark+%2F+Airflow;Passionne+d%27IA+%7C+LLM+%2F+RAG+%2F+NLP;Disponible+pour+une+alternance+des+Septembre+2026" alt="Typing SVG" /> </a>
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:4B0082&height=230&section=header&text=Wilfried%20Conrad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developpeur%20Fullstack%20%7C%20DevOps%20%7C%20Data%20%26%20IA&descAlignY=58&descSize=19&stroke=4B0082&strokeWidth=1" width="100%"/>
 
 <a href="https://waffeumbe.vercel.app">
